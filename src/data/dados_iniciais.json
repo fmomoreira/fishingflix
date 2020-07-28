@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "titulo": "Pescando Entre Amigos",
+      "link": "https://lojapescaalternativa.com.br/",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Conheca a loja mais completa do Brasil!",
+        "url": "https://lojapescaalternativa.com.br/"
+      },
+      "videos": [
+        {
+          "titulo": "Voltando à pescar no Lago Azul - Pescando Entre Amigos S06E24",
+          "url": "https://www.youtube.com/watch?v=8rl6kRtk3aQ"
+        },
+        {
+          "titulo": "Tudo pode parar, menos nossa pescaria - Pescando Entre Amigos S06E23",
+          "url": "https://www.youtube.com/watch?v=i5sdyuxBcmc"
+        },
+        {
+          "titulo": "CEspecial 22 anos Pesca Alternativa",
+          "url": "https://www.youtube.com/watch?v=8vKWQ7AU-4k"
+        },
+        {
+          "titulo": "Tempo difícil? difícil é ficar sem pescar! - Pescando Entre Amigos S06E22",
+          "url": "https://www.youtube.com/watch?v=nkt3A9mKzc4"
+        },
+        {
+          "titulo": "Tempo frio, mas pescaria quente II - Pescando Entre Amigos S06E21",
+          "url": "https://www.youtube.com/watch?v=S3FvxQTJJ4c"
+        },
+        {
+          "titulo": "Dia ou Noite tem os famosos Tambas do Matsumura - Pescando Entre Amigos S06E15",
+          "url": "https://www.youtube.com/watch?v=h1zej9qStqM"
+        },
+        {
+          "titulo": "Com material certo a pescaria é sempre esportiva - Pescando Entre Amigos S06E17",
+          "url": "https://www.youtube.com/watch?v=0Zp_6Szf9Ro"
+        },
+        {
+          "titulo": "Tem pesqueiro novo aqui! - Pescando Entre Amigos S05E14",
+          "url": "https://www.youtube.com/watch?v=4VW5yAfzV6k"
+        }        
+      ]
+    },
+    {
+      "titulo": "Johnny Hoffmann",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "O PEIXE ME ARRASTOU PRA ÁGUA COM A VARA DE BAMBU",
+        "url": "https://www.youtube.com/watch?v=qQeLIcZltbs"
+      },
+      "videos": [
+        {
+          "titulo": "LINHA FINA PARA FISGAR UM MONSTRO 😱😱.",
+          "url": "https://www.youtube.com/watch?v=Kw3jaYF0mv4"
+        },
+        {
+          "titulo": "DE CAIAQUE E ESSA ISCA EU FIZ A FESTA, FOI DOIDEIRA",
+          "url": "https://www.youtube.com/watch?v=bXkyNNyeVVE"
+        },
+        {
+          "titulo": "QUE TIPO DE RIO ISSO PODE ACONTECER ? Você saberia? Ja viu isso ?",
+          "url": "https://www.youtube.com/watch?v=O5YdGVyFb-A"
+        },
+        {
+          "titulo": "VOCÊ JÁ VIU UMA MAIOR QUE ESSA ? jatuarana e matrinchã",
+          "url": "https://www.youtube.com/watch?v=1Q_4q-HfIE0"
+        }, 
+        {
+          "titulo": "VOCÊ SERIA CAPAZ DE FAZER ESSA PESCARIA?pescando e cozinhando .",
+          "url": "https://www.youtube.com/watch?v=VE-kKRAGJpw"
+        }
+      ]
+    },
+    {
+      "titulo": "Família Nakamura",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "CHAMA NO PEITO! Pescaria de Tamba no pesqueiro Ichiban. Estreiando a nova vara TANKA!",
+        "url": "https://www.youtube.com/watch?v=acd8IPL9334"
+      },
+      "videos": [
+        {
+          "titulo": "Primeiro campeonato fui seguido por seis barcos. Historias Nakamura",
+          "url": "https://www.youtube.com/watch?v=9miGp1fz7s0"
+        },
+        {
+          "titulo": "Pescaria de superfície com ARREMESSO DE PRECISÃO! Pescaria.",
+          "url": "https://www.youtube.com/watch?v=0pVvpT6b_Bs"
+        },
+        {
+          "titulo": "É TUCUNARÉ do começo ao fim! Pescaria no barco Zaltana",
+          "url": "https://www.youtube.com/watch?v=s21JrvvM5sY"
+        },
+        {
+          "titulo": "DIA DO PESCADOR [50 UP na vara LOKI 7LB] - Família Nakamura",
+          "url": "https://www.youtube.com/watch?v=_QAqF1L8xn4"
+        }
+      ]
+    },
+    {
+      "titulo": "Fabio Fregona - BACA",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "VOCÊ ACHA QUE JÁ VIU MUITO PEIXE??? Então veja esse vídeo... Pescaria.",
+          "url": "https://www.youtube.com/watch?v=4-zE-njFe-4"
+        },
+        {
+          "titulo": "NUNCA JULGUE UM RIO PELA COR DE SUA ÁGUA! Pescaria.",
+          "url": "https://www.youtube.com/watch?v=9IeGHPJ1Qq8"
+        },
+        {
+          "titulo": "NO LUGAR CERTO, NO MOMENTO EXATO!!! Pescaria...",
+          "url": "https://www.youtube.com/watch?v=kvG-vJ9z1yg"
+        },
+        {
+          "titulo": "NÃO HÁ TEMPO PARA SENTIR MEDO!!! Pescaria.",
+          "url": "https://www.youtube.com/watch?v=cnCsI8x07P0&t=52s"
+        }
+      ]
+    },
+    {
+      "titulo": "Pesca Amental Fishing",
+      "cor": "red",
+      "link_extra": {
+        "text": "ULTRALIGHT - Pesqueiro Recando dos Gigantes Desafio do Pequeno e as Pirararas na Ultra light Batalha",
+        "url": "https://www.youtube.com/watch?v=EtWS8srkxQQ"
+      },
+      "videos": [
+        {
+          "titulo": "TRILHA RIO BRANQUINHO - Amental Fishing - Funiculeiros SP- Itanhaém",
+          "url": "https://www.youtube.com/watch?v=LsH1dpEHmOw"
+        },
+        {
+          "titulo": "ULTRALIGHT - DICAS -Pesqueiro Arujá Carpas gigantes Tambacus e Corimbas Amental Fishing Ultralight",
+          "url": "https://www.youtube.com/watch?v=riOUfXaxhOc"
+        },
+        {
+          "titulo": "ULTRALIGHT - DICAS - Pesqueiro Aquarium Surpresas na linha - Carpa gigante, Pincacharas enormes",
+          "url": "https://www.youtube.com/watch?v=nJI1lxyitHM"
+        },
+        {
+          "titulo": "ULTRALIGHT - DICAS - NA PRAIA Pesca de Praia xareus Amental Caiaque Stand-up Ubaranas Xareus",
+          "url": "https://www.youtube.com/watch?v=sw11gmkXKJo"
+        },
+        {
+          "titulo": "Atum Gigante - Aracaju yellowfin Tuna - Amental Fishing - TUNA 48 H Temporada de Pesca",
+          "url": "https://www.youtube.com/watch?v=coFplTAjEN8"
+        }
+      ]
+    },
+    {
+      "titulo": "NASH TV Carp Fishing",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Nash Zig Screws",
+        "url": "https://www.youtube.com/watch?v=2vqIBIsi2eI"
+      },
+      "videos": [
+        {
+          "titulo": "How to tie a Multi Rig - Oli Davies",
+          "url": "https://www.youtube.com/watch?v=1hUE3Q_23Fo"
+        },
+        {
+          "titulo": "CARP FISHING 🐟 CATCHING HUGE CARP at THE SOCIAL 3 - FULL MOVIE",
+          "url": "https://www.youtube.com/watch?v=NgrvnLdtLnI"
+        },
+        {
+          "titulo": "The Nash Base Camp",
+          "url": "https://www.youtube.com/watch?v=VSQpJvOiehI"
+        },
+        {
+          "titulo": "French CARP FISHING - Carplifer on LAC DU DER",
+          "url": "https://www.youtube.com/watch?v=ktKPL8HhwgE"
+        },
+        {
+          "titulo": "THE EDGE - Carp Fishing with Oli Davies",
+          "url": "https://www.youtube.com/watch?v=QbKWxqg12BE"
+        }
+      ]
+    }
+  ]
+}
